@@ -1,7 +1,7 @@
 <p align=center>  <strong> >_ Bonjour ! Bienvenue sur ma page GitHub !</strong> </p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=Allan+THAMVONGS'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=Houcem+Harrouche'>
 </p>
 
 <p align=center>  <strong>
@@ -10,13 +10,13 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AllanEpitech&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=houcemEpitech&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanEpitech&layout=compact" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houcemEpitech&layout=compact" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
