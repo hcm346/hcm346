@@ -1,38 +1,7 @@
-<p align=center>  <strong> >_ Bonjour ! Bienvenue sur ma page GitHub !</strong> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hcm346&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
-<p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=Houcem+Harrouche'>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hcm346&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
-<p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=kdridi&color=blueviolet&style=plastic'>
-</strong> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcm346&layout=compact)](https://github.com/hcm346/github-readme-stats">
 
-<div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=houcemEpitech&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=BC2BFF" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
-
-<div>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houcemEpitech&layout=compact" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
-
-
-<p align='center'>
-  <img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-  <img alt='CSS' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
-  <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
-  <img alt='MySQL' src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
-  <img alt='BASH' src='https://img.shields.io/badge/bash-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
-  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
-
-
- <br/>
-
-   <br/>
- <br/>
-
-</div>
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
