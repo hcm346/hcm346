@@ -7,7 +7,7 @@
 
 
 
- <p align=center> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcm346&layout=compact)](https://github.com/hcm346/github-readme-stats">
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
 
